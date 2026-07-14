@@ -41,11 +41,3 @@ This project is an interactive Power BI dashboard that analyzes Uber ride bookin
 | Uber Dashboard.pbix | Power BI Report |
 | dashboard.png | Dashboard Screenshot |
 | README.md | Documentation |
-
-## Author
-
-**Virang Raje**
-
-GitHub: https://github.com/rajevirang28
-
-LinkedIn: https://www.linkedin.com/in/virang-raje-716882285
