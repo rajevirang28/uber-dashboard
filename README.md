@@ -1,4 +1,4 @@
-# 🚖 Uber Dashboard (Power BI)
+# Uber Dashboard (Power BI)
 
 ## Overview
 This project is an interactive Power BI dashboard that analyzes Uber ride booking data.
