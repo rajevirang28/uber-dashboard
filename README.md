@@ -30,7 +30,6 @@ This project is an interactive Power BI dashboard that analyzes Uber ride bookin
 ## Tools Used
 
 - Power BI
-- Excel
 - DAX
 - Power Query
 
