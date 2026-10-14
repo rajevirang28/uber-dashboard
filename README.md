@@ -22,10 +22,10 @@ This project is an interactive Power BI dashboard that analyzes Uber ride bookin
 
 ## KPIs
 
-- ✅ Completed Bookings: 19K
-- ❌ Lost Bookings: 11K
-- 💰 Revenue: 10M
-- 📍 Total Distance: 501.20K
+- Completed Bookings: 19K
+- Lost Bookings: 11K
+- Revenue: 10M
+- Total Distance: 501.20K
 
 ## Tools Used
 
